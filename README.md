@@ -1,6 +1,6 @@
 ## OLÁ! Eu me chamo Vitor  👋
 
-- 🔭 Estou trablhando com programção
+- 🔭 Estou trablhando com programação
 - 🌱 Atualmente estou aprendendo javaScript
 - 💬 Minha rotinas
 - 📫 meu contado Email: vitorbentogoncalves@gmail.com
