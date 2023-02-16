@@ -2,8 +2,6 @@
 
 - 🔭 Estou trablhando com programação
 - 🌱 Atualmente estou aprendendo javaScript
-- 💬 Minha rotinas
-- 📫 meu contado Email: vitorbentogoncalves@gmail.com
 
 <div align="center">
   <a href="https://github.com/vitorgoncalve">
