@@ -1,6 +1,6 @@
 ## OLÁ! Eu me chamo Vitor  👋
 
-- 🔭 Estou trablhando com programação
+- 🔭 Estou trabalhando com programação
 - 🌱 Atualmente estou aprendendo javaScript
 
 <div align="center">
